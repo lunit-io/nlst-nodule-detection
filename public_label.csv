@@ -1,0 +1,578 @@
+pid,cancer_pathology,cancer_time,lesion_size_at_Dx,location_at_Dx,stage_at_Dx,is_nodule,is_malignant_nodule,etc,,xrysystem
+200226,1,251,18,right upper lobe,Stage IA,1,1,,,CR
+200314,0,NA,,,,1,0,BIAPICAL PLEURAL THICKENING,,DR
+200323,0,NA,,,,1,0,,,CR
+200442,0,NA,,,,0,0,,,CR
+200565,0,NA,,,,1,0,tiny nodules 4 mm or less (3),,Thoravision
+200627,0,NA,,,,0,0,nodule only at T1 left mid zone,,DR
+200644,0,NA,,,,1,0,,,CR
+200723,0,NA,,,,1,0,Mass in the left mid lung zone,,CR
+200809,1,63,50,left lower lobe,Stage IIB,1,1,mass in the left lower lung,,DR
+200909,0,NA,,,,0,0,,,SF
+201062,0,NA,,,,1,0,at all times,,CR
+201189,0,NA,,,,1,0,all times,,CR
+201396,0,NA,,,,0,0,rigth lower zone,,DR
+201466,1,23,9,left upper lobe,Stage IV,1,1,at baseline plus with left hilar lymphadenopathy,,CR
+201473,0,NA,,,,1,0,at all,,CR
+201539,0,NA,,,,0,0,,,DR
+201622,0,NA,,,,1,0,probable nodules in the right lower and upper lung and calcified pleural plaques bilaterally.,,CR
+201667,0,NA,,,,1,0,left lower lung nodule is not dfinitely calcified,,CR
+201742,0,NA,,,,0,0,,,Thoravision
+201747,0,NA,,,,0,0,,,DR
+201776,0,NA,,,,1,0,righ apex nodules likely infection on T0. no nodules on follow up CT,,CR
+201868,0,NA,,,,0,0,,,CR
+201880,0,NA,,,,0,0,left mid zone,,CR
+201882,0,NA,,,,0,0,,,DR
+202129,0,NA,,,,1,0,,,DR
+202193,1,140,40,right upper lobe,Stage IIB,1,1,,,Thoravision
+202211,0,NA,,,,0,0,,,CR
+202273,0,NA,,,,1,0,,,CR
+202324,0,NA,,,,0,0,,,CR
+202455,0,NA,,,,0,0,,,CR
+202509,0,NA,,,,0,0,nodule on T1 and T2,,CR
+202555,0,NA,,,,1,0,,,DR
+202579,0,NA,,,,0,0,possibly bony abnormality,,DR
+202615,0,NA,,,,0,0,,,CR
+202644,0,NA,,,,0,0,,,CR
+202657,0,NA,,,,1,0,best seen on T0 and T2,,DR
+202686,1,24,75,right upper lobe,Stage IIIA,1,1,mass in the rul,,DR
+202861,0,NA,,,,1,0,likely nipple shadow shows up again in T2 but not as well in T1,,CR
+202924,0,NA,,,,0,0,,,DR
+203097,0,NA,,,,1,0,,,CR
+203108,0,NA,,,,0,0,,,CR
+203220,0,NA,,,,1,0,only on T0,,CR
+203244,0,NA,,,,1,0,,,DR
+203284,0,NA,,,,0,0,,,CR
+203296,1,35,75,right middle lobe,Stage IV,0,0,,,DR
+203970,0,NA,,,,1,0,,,CR
+204044,1,100,12,left upper lobe,Stage IA,1,1,in LUL and right lower lung,,CR
+204100,1,35,55,left upper lobe,Stage IV,1,1,mass in the LUL,,DR
+204562,1,36,38,right lower lobe,Stage IIIA,1,1,,,DR
+204586,0,NA,,,,1,0,,,CR
+205597,1,13,17,lingula,Stage IIIB,1,1,,,DR
+205667,1,11,32,other,Stage IB,1,1,,,CR
+205754,0,NA,,,,1,0,,,DR
+205809,0,NA,,,,1,0,at T0 and T1 and gone on T2,,CR
+205834,0,NA,,,,0,0,,,DR
+205943,0,NA,,,,0,0,,,CR
+206381,0,NA,,,,1,0,,,DR
+206916,1,31,60,left upper lobe,Stage IIIA,1,1,,,CR
+207135,1,11,23,right upper lobe,Stage IA,1,1,,,DR
+207339,0,NA,,,,1,0,,,CR
+207432,0,NA,,,,1,0,,,DR
+207489,0,NA,,,,1,0,,,CR
+207665,0,NA,,,,1,0,,,CR
+207704,1,127,55,right upper lobe,Stage IIIB,1,1,,,CR
+207863,0,NA,,,,1,0,,,CR
+207919,0,NA,,,,1,0,,,CR
+208051,1,13,90,left upper lobe,Stage IIIB,1,1,,,CR
+208067,0,NA,,,,0,0,,,CR
+208261,1,86,NA,lingula,Stage IV,1,1,left perihilar opacity with hilar prominence,,CR
+208290,0,NA,,,,1,0,right upper lobe,,CR
+208483,1,84,11,right upper lobe,Stage IA,1,1,,,CR
+209744,1,15,21,left upper lobe,Stage IIIA,1,1,,,DR
+210696,1,125,80,mediastinum,Stage IV,0,0,right hilar mass or prominence,,CR
+211510,1,93,20,right lower lobe,Stage IV,1,1,,,CR
+211521,1,0,64.0; 8.0,right upper lobe; left upper lobe,Stage IIIB; Stage IB,1,1,,,DR
+211852,1,43,30,left upper lobe,Stage IA,1,1,,,Thoravision
+213135,1,87,16,left upper lobe,Stage IIIA,0,0,,,CR
+213498,1,24,38,left lower lobe,Stage IB,1,1,,,DR
+214525,1,98,26,right middle lobe,Stage IB,1,1,,,CR
+214540,1,16,36,right upper lobe,Stage IB,1,1,,,DR
+214569,1,45,45,right upper lobe,Stage IV,1,1,,,CR
+215123,1,71,11.0; 30.0,left upper lobe; left lower lobe,Stage IA; Stage IB,1,1,left upper lung,,CR
+215600,1,13,26,right middle lobe,Stage IV,1,1,,,DR
+215807,1,257,60,right hilum,Stage IIIA,0,0,,,DR
+216360,1,57,25,right middle lobe,Stage IIB,1,1,,,Thoravision
+217009,1,127,NA,unknown,Stage IV,1,1,right upper lobe,,DR
+217418,1,20,NA,left upper lobe,Missing,1,1,,,DR
+217583,1,129,35,left lower lobe,Stage IB,1,1,,,DR
+217821,1,154,16,right upper lobe,Stage IA,1,1,,,DR
+218426,1,48,25,right upper lobe,Stage IB,1,1,,,DR
+218684,1,48,45,left upper lobe,Stage IIIA,1,1,,,CR
+218824,1,27,50,right lower lobe,Stage IB,1,1,,,DR
+200002,0,NA,,,,0,0,,,DR
+200003,0,NA,,,,0,0,,,Thoravision
+200004,0,NA,,,,0,0,,,DR
+200006,0,NA,,,,0,0,,,CR
+200013,0,NA,,,,0,0,,,Thoravision
+200014,0,NA,,,,0,0,,,DR
+200015,0,NA,,,,0,0,,,CR
+200025,0,NA,,,,0,0,,,CR
+200034,0,NA,,,,0,0,3MM NODULE IN THE RIGHT LOWER LUNG,,CR
+200059,0,NA,,,,0,0,,,CR
+200063,0,NA,,,,0,0,3 MM NODULE IN THE LEFT UPPER LUNG,,DR
+200064,0,NA,,,,0,0,,,DR
+200079,0,NA,,,,0,0,,,CR
+200089,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING,,CR
+200098,0,NA,,,,0,0,,,DR
+200101,0,NA,,,,0,0,SCARRING IN THE LEFT LOWER LUNG,,DR
+200105,0,NA,,,,0,0,LEFT LOWER LUNG OPACITY NEAR NIPPLE SHADOW? NIPPLE SHADOW?,,DR
+200109,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING,,DR
+200125,0,NA,,,,0,0,,,CR
+200130,0,NA,,,,0,0,,,DR
+200143,0,NA,,,,0,0,BILATERAL POSTERIOR RIB FRACTURES (HEALED) (4-5),,CR
+200145,0,NA,,,,0,0,,,CR
+200147,0,NA,,,,0,0,LOW CONFIDENCE,,CR
+200158,0,NA,,,,0,0,,,CR
+200162,0,NA,,,,0,0,,,DR
+200182,0,NA,,,,0,0,,,DR
+200210,0,NA,,,,0,0,,,CR
+200212,0,NA,,,,0,0,,,DR
+200229,0,NA,,,,0,0,,,CR
+200232,0,NA,,,,0,0,,,DR
+200235,0,NA,,,,0,0,ELEVATED LEFT HEMIDIAPHRAGM - SCAR OR SUBSEG ATELECTASIS IN THE LEFT LOWERL UNG,,DR
+200239,0,NA,,,,0,0,,,DR
+200243,0,NA,,,,0,0,,,DR
+200249,0,NA,,,,0,0,,,CR
+200260,0,NA,,,,0,0,,,CR
+200263,0,NA,,,,0,0,,,CR
+200271,0,NA,,,,0,0,,,DR
+200279,0,NA,,,,0,0,,,CR
+200282,0,NA,,,,0,0,,,DR
+200294,0,NA,,,,0,0,,,CR
+200297,0,NA,,,,0,0,,,CR
+200304,0,NA,,,,0,0,,,DR
+200306,0,NA,,,,0,0,,,CR
+200321,0,NA,,,,0,0,,,DR
+200331,0,NA,,,,0,0,,,CR
+200338,0,NA,,,,0,0,,,DR
+200352,0,NA,,,,0,0,,,CR
+200355,0,NA,,,,0,0,POSSIBLE DISCOID ATELECTASIS IN THE LEFT COSTOPHRENIC RECESS,,CR
+200360,0,NA,,,,0,0,,,CR
+200361,0,NA,,,,0,0,,,DR
+200365,0,NA,,,,0,0,,,CR
+200367,0,NA,,,,0,0,,,CR
+200368,0,NA,,,,0,0,,,CR
+200390,0,NA,,,,0,0,,,CR
+200396,0,NA,,,,0,0,DOUBTFUL NODULE IN THE LEFT UPPER LOBE--LOW CONFIDENCE,,DR
+200403,0,NA,,,,0,0,,,CR
+200412,0,NA,,,,0,0,,,Thoravision
+200463,0,NA,,,,0,0,,,DR
+200470,0,NA,,,,0,0,,,DR
+200471,0,NA,,,,0,0,SCARRING IN THE right LOWER LUNG,,DR
+200475,0,NA,,,,0,0,,,CR
+200478,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING,,DR
+200481,0,NA,,,,0,0,,,Thoravision
+200486,0,NA,,,,0,0,,,DR
+200491,0,NA,,,,0,0,scarring or subsegmental atelectasis in the left lower lung,,CR
+200492,0,NA,,,,0,0,bilateral lower lung subsegmental atelectasis,,CR
+200514,0,NA,,,,0,0,patchy opacities in the right upper and mid lung zone- pneumonia. COPD. Right upper lateral pleural thickening. ONLY ON T0,,CR
+200519,0,NA,,,,0,0,,,DR
+200523,0,NA,,,,0,0,right apical pleural thickening,,DR
+200541,0,NA,,,,0,0,,,DR
+200543,0,NA,,,,0,0,,,Thoravision
+200544,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING,,CR
+200550,0,NA,,,,0,0,,,CR
+200556,0,NA,,,,0,0,,,DR
+200559,0,NA,,,,0,0,,,CR
+200567,0,NA,,,,0,0,,,CR
+200568,0,NA,,,,0,0,,,DR
+200572,0,NA,,,,0,0,,,CR
+200577,0,NA,,,,0,0,,,DR
+200579,0,NA,,,,0,0,,,Thoravision
+200588,0,NA,,,,0,0,,,CR
+200598,0,NA,,,,0,0,,,DR
+200607,0,NA,,,,0,0,low lung volumes. Elevated left hemidiaphragm,,CR
+200608,0,NA,,,,0,0,,,CR
+200612,0,NA,,,,0,0,,,DR
+200621,0,NA,,,,0,0,,,CR
+200629,0,NA,,,,0,0,,,CR
+200630,0,NA,,,,0,0,,,CR
+200632,0,NA,,,,0,0,,,CR
+200637,0,NA,,,,0,0,,,CR
+200640,0,NA,,,,0,0,,,DR
+200660,0,NA,,,,0,0,,,CR
+200664,0,NA,,,,0,0,,,CR
+200668,0,NA,,,,0,0,,,CR
+200671,0,NA,,,,0,0,,,CR
+200681,0,NA,,,,0,0,,,CR
+200682,0,NA,,,,0,0,,,CR
+200692,0,NA,,,,0,0,patchy and linear opacities in the left lower lung - infection and/or atelectasis,,CR
+200693,0,NA,,,,0,0,,,DR
+200696,0,NA,,,,0,0,,,CR
+200703,0,NA,,,,0,0,,,CR
+200706,0,NA,,,,0,0,only calcified granuloma,,CR
+200726,0,NA,,,,0,0,left rib fractures,,DR
+200730,0,NA,,,,0,0,,,CR
+200741,0,NA,,,,0,0,,,CR
+200751,0,NA,,,,0,0,,,DR
+200758,0,NA,,,,0,0,,,CR
+200774,0,NA,,,,0,0,left clavicle fracture,,CR
+200783,0,NA,,,,0,0,,,DR
+200792,0,NA,,,,0,0,multiple right rib fractures,,DR
+200798,0,NA,,,,0,0,,,DR
+200804,0,NA,,,,0,0,subsegmental atelectasis in the right lowerl ung,,DR
+200807,0,NA,,,,0,0,,,CR
+200812,0,NA,,,,0,0,,,Thoravision
+200821,0,NA,,,,0,0,,,CR
+200828,0,NA,,,,0,0,,,DR
+200829,0,NA,,,,0,0,,,DR
+200836,0,NA,,,,0,0,,,DR
+200839,0,NA,,,,0,0,,,CR
+200859,0,NA,,,,0,0,,,DR
+200876,0,NA,,,,0,0,,,CR
+200879,0,NA,,,,0,0,,,DR
+200886,0,NA,,,,0,0,,,DR
+200890,0,NA,,,,0,0,,,DR
+200891,0,NA,,,,0,0,subsegmental atelectasis in the right lowerl ung,,DR
+200900,0,NA,,,,0,0,,,DR
+200914,0,NA,,,,0,0,,,DR
+200926,0,NA,,,,0,0,,,DR
+200934,0,NA,,,,0,0,,,CR
+200949,0,NA,,,,0,0,,,DR
+200955,0,NA,,,,0,0,,,DR
+200958,0,NA,,,,0,0,,,CR
+200960,0,NA,,,,0,0,,,CR
+200991,0,NA,,,,0,0,,,CR
+200999,0,NA,,,,0,0,,,CR
+201002,0,NA,,,,0,0,,,DR
+201022,0,NA,,,,0,0,,,DR
+201026,0,NA,,,,0,0,,,CR
+201030,0,NA,,,,0,0,,,DR
+201032,0,NA,,,,0,0,,,CR
+201043,0,NA,,,,0,0,,,DR
+201044,0,NA,,,,0,0,,,DR
+201046,0,NA,,,,0,0,,,CR
+201056,0,NA,,,,0,0,,,CR
+201070,0,NA,,,,0,0,,,DR
+201071,0,NA,,,,0,0,,,DR
+201076,0,NA,,,,0,0,,,CR
+201078,0,NA,,,,0,0,,,CR
+201087,0,NA,,,,0,0,right pleural effusion,,DR
+201122,0,NA,,,,0,0,eventration of right hemidiaphragm,,DR
+201135,0,NA,,,,0,0,,,CR
+201136,0,NA,,,,0,0,,,DR
+201144,0,NA,,,,0,0,,,CR
+201147,0,NA,,,,0,0,,,CR
+201176,0,NA,,,,0,0,,,CR
+201198,0,NA,,,,0,0,,,CR
+201209,0,NA,,,,0,0,,,DR
+201212,0,NA,,,,0,0,,,Thoravision
+201214,0,NA,,,,0,0,,,CR
+201219,0,NA,,,,0,0,prominent epicardial fat pad in the right cardiophrenic angle (stable over 3 xrays),,DR
+201230,0,NA,,,,0,0,,,CR
+201238,0,NA,,,,0,0,,,DR
+201239,0,NA,,,,0,0,no nodules,,DR
+201242,0,NA,,,,0,0,,,DR
+201248,0,NA,,,,0,0,,,CR
+201253,0,NA,,,,0,0,,,CR
+201254,0,NA,,,,0,0,,,DR
+201256,0,NA,,,,0,0,,,CR
+201259,0,NA,,,,0,0,,,CR
+201260,0,NA,,,,0,0,,,CR
+201262,0,NA,,,,0,0,,,DR
+201270,0,NA,,,,0,0,all times,,CR
+201273,0,NA,,,,0,0,,,DR
+201294,0,NA,,,,0,0,,,DR
+201297,0,NA,,,,0,0,,,DR
+201300,0,NA,,,,0,0,,,CR
+201301,0,NA,,,,0,0,,,CR
+201302,0,NA,,,,0,0,,,DR
+201304,0,NA,,,,0,0,left apical opacity is unlikely a nodul e,,DR
+201307,0,NA,,,,0,0,,,CR
+201326,0,NA,,,,0,0,,,DR
+201341,0,NA,,,,0,0,,,DR
+201344,0,NA,,,,0,0,,,CR
+201357,0,NA,,,,0,0,,,DR
+201362,0,NA,,,,0,0,,,CR
+201363,0,NA,,,,0,0,,,CR
+201386,0,NA,,,,0,0,,,DR
+201392,0,NA,,,,0,0,,,CR
+201402,0,NA,,,,0,0,right pleural effusion,,DR
+201412,0,NA,,,,0,0,,,CR
+201416,0,NA,,,,0,0,,,Thoravision
+201418,0,NA,,,,0,0,,,DR
+201438,0,NA,,,,0,0,,,DR
+201453,0,NA,,,,0,0,,,CR
+201457,0,NA,,,,0,0,,,CR
+201459,0,NA,,,,0,0,several cut radiographs to span the entire chest,,DR
+201488,0,NA,,,,0,0,bibasal subsegmental atelectasis on T0 and T1,,Thoravision
+201491,0,NA,,,,0,0,at T2 only,,CR
+201509,0,NA,,,,0,0,,,DR
+201515,0,NA,,,,0,0,,,CR
+201516,0,NA,,,,0,0,,,DR
+201522,0,NA,,,,0,0,,,DR
+201526,0,NA,,,,0,0,,,DR
+201527,0,NA,,,,0,0,,,DR
+201542,1,174,40,right main stem bronchus,Stage IIIA,0,0,,,CR
+201548,0,NA,,,,0,0,,,DR
+201567,0,NA,,,,0,0,,,DR
+201573,0,NA,,,,0,0,,,CR
+201576,0,NA,,,,0,0,,,SF
+201580,0,NA,,,,0,0,,,DR
+201581,0,NA,,,,0,0,left rib fractures,,CR
+201583,0,NA,,,,0,0,likely calcified nodule (hamartoma) in the left lower lobe …below left diaphragm,,CR
+201594,0,NA,,,,0,0,,,DR
+201598,0,NA,,,,0,0,,,CR
+201603,0,NA,,,,0,0,,,DR
+201621,0,NA,,,,0,0,,,CR
+201623,0,NA,,,,0,0,,,CR
+201628,0,NA,,,,0,0,,,CR
+201644,0,NA,,,,0,0,,,DR
+201653,0,NA,,,,0,0,,,DR
+201654,0,NA,,,,0,0,,,DR
+201659,0,NA,,,,0,0,,,DR
+201663,0,NA,,,,0,0,prominent epicardial fat pad in the right cardiophrenic angle (stable over 3 xrays),,CR
+201668,0,NA,,,,0,0,,,CR
+201679,0,NA,,,,0,0,,,Thoravision
+201685,0,NA,,,,0,0,,,DR
+201691,0,NA,,,,0,0,,,CR
+201698,0,NA,,,,0,0,,,CR
+201699,0,NA,,,,0,0,,,CR
+201705,0,NA,,,,0,0,,,SF
+201711,0,NA,,,,0,0,,,CR
+201714,0,NA,,,,0,0,,,DR
+201727,0,NA,,,,0,0,,,DR
+201738,0,NA,,,,0,0,,,Thoravision
+201750,0,NA,,,,0,0,,,CR
+201753,0,NA,,,,0,0,,,CR
+201760,0,NA,,,,0,0,,,DR
+201774,0,NA,,,,0,0,,,DR
+201783,0,NA,,,,0,0,,,CR
+201784,0,NA,,,,0,0,,,DR
+201793,0,NA,,,,0,0,,,CR
+201795,0,NA,,,,0,0,,,Thoravision
+201797,0,NA,,,,0,0,,,DR
+201799,0,NA,,,,0,0,,,DR
+201813,0,NA,,,,0,0,,,DR
+201825,0,NA,,,,0,0,right apical bulla or pneumothorax,,DR
+201847,0,NA,,,,0,0,,,DR
+201858,0,NA,,,,0,0,,,DR
+201860,0,NA,,,,0,0,,,DR
+201875,0,NA,,,,0,0,,,DR
+201876,0,NA,,,,0,0,,,CR
+201883,0,NA,,,,0,0,,,CR
+201888,0,NA,,,,0,0,,,CR
+201901,0,NA,,,,0,0,large thin wall cavity in the right base,,DR
+201905,0,NA,,,,0,0,poor quality,,CR
+201906,0,NA,,,,0,0,,,CR
+201920,0,NA,,,,0,0,,,DR
+201926,0,NA,,,,0,0,,,CR
+201937,0,NA,,,,0,0,,,CR
+201943,0,NA,,,,0,0,,,DR
+201948,0,NA,,,,0,0,,,DR
+201961,0,NA,,,,0,0,,,DR
+201962,0,NA,,,,0,0,,,CR
+201978,0,NA,,,,0,0,,,Thoravision
+201982,0,NA,,,,0,0,,,CR
+201983,0,NA,,,,0,0,,,DR
+202001,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING,,DR
+202012,0,NA,,,,0,0,pacemaker,,CR
+202023,0,NA,,,,0,0,,,CR
+202036,0,NA,,,,0,0,,,CR
+202038,0,NA,,,,0,0,,,DR
+202042,0,NA,,,,0,0,,,CR
+202043,0,NA,,,,0,0,,,CR
+202047,0,NA,,,,0,0,,,CR
+202059,0,NA,,,,0,0,multiple granuloma,,CR
+202063,0,NA,,,,0,0,,,Thoravision
+202070,0,NA,,,,0,0,,,DR
+202077,0,NA,,,,0,0,,,CR
+202078,0,NA,,,,0,0,Mulitple left rib fractures,,DR
+202089,0,NA,,,,0,0,,,Thoravision
+202093,0,NA,,,,0,0,,,Thoravision
+202107,0,NA,,,,0,0,,,DR
+202108,0,NA,,,,0,0,the opacity in the left mid lung is atelectasis on all time points rather than a nodule,,CR
+202121,0,NA,,,,0,0,,,CR
+202122,0,NA,,,,0,0,,,DR
+202125,0,NA,,,,0,0,elevatde left hemidiaphram,,DR
+202133,0,NA,,,,0,0,,,CR
+202139,0,NA,,,,0,0,T2 only,,CR
+202140,0,NA,,,,0,0,,,CR
+202141,0,NA,,,,0,0,,,CR
+202144,0,NA,,,,0,0,,,CR
+202153,0,NA,,,,0,0,,,DR
+202156,0,NA,,,,0,0,,,DR
+202179,0,NA,,,,0,0,,,DR
+202184,0,NA,,,,0,0,,,CR
+202185,0,NA,,,,0,0,,,DR
+202192,0,NA,,,,0,0,,,CR
+202196,0,NA,,,,0,0,,,CR
+202198,0,NA,,,,0,0,,,DR
+202214,0,NA,,,,0,0,,,DR
+202216,0,NA,,,,0,0,,,CR
+202221,0,NA,,,,0,0,,,CR
+202223,0,NA,,,,0,0,,,DR
+202233,0,NA,,,,0,0,,,DR
+202240,0,NA,,,,0,0,,,CR
+202242,0,NA,,,,0,0,,,DR
+202248,0,NA,,,,0,0,,,CR
+202256,0,NA,,,,0,0,,,CR
+202260,0,NA,,,,0,0,,,CR
+202275,0,NA,,,,0,0,,,DR
+202287,0,NA,,,,0,0,,,DR
+202289,0,NA,,,,0,0,,,CR
+202290,0,NA,,,,0,0,,,Thoravision
+202292,0,NA,,,,0,0,,,CR
+202293,0,NA,,,,0,0,,,CR
+202296,0,NA,,,,0,0,,,DR
+202297,0,NA,,,,0,0,,,Thoravision
+202298,0,NA,,,,0,0,T2 only,,CR
+202301,0,NA,,,,0,0,,,DR
+202304,0,NA,,,,0,0,,,Thoravision
+202308,0,NA,,,,0,0,,,CR
+202312,0,NA,,,,0,0,,,CR
+202316,0,NA,,,,0,0,,,CR
+202326,0,NA,,,,0,0,,,CR
+202334,0,NA,,,,0,0,changes of pulmonary fibrosis,,DR
+202335,0,NA,,,,0,0,,,CR
+202337,0,NA,,,,0,0,,,DR
+202340,0,NA,,,,0,0,,,DR
+202344,0,NA,,,,0,0,,,CR
+202353,0,NA,,,,0,0,,,DR
+202357,0,NA,,,,0,0,,,CR
+202361,0,NA,,,,0,0,,,CR
+202363,0,NA,,,,0,0,,,CR
+202375,0,NA,,,,0,0,,,CR
+202385,0,NA,,,,0,0,,,DR
+202387,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING,,DR
+202397,0,NA,,,,0,0,,,CR
+202400,0,NA,,,,0,0,,,DR
+202407,0,NA,,,,0,0,,,DR
+202429,0,NA,,,,0,0,prominent epicardial fat pad in the right cardiophrenic angle (stable over 3 xrays),,CR
+202435,0,NA,,,,0,0,,,CR
+202457,0,NA,,,,0,0,T2 only,,CR
+202462,0,NA,,,,0,0,,,DR
+202476,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING,,CR
+202484,0,NA,,,,0,0,,,DR
+202487,0,NA,,,,0,0,,,DR
+202497,0,NA,,,,0,0,,,DR
+202501,0,NA,,,,0,0,BIAPICAL PLEURAL THICKENING and scarring,,DR
+202507,0,NA,,,,0,0,,,DR
+202513,0,NA,,,,0,0,,,CR
+202535,0,NA,,,,0,0,,,CR
+202540,0,NA,,,,0,0,,,CR
+202545,0,NA,,,,0,0,,,CR
+202549,0,NA,,,,0,0,,,DR
+202551,0,NA,,,,0,0,,,DR
+202552,0,NA,,,,0,0,,,CR
+202558,0,NA,,,,0,0,,,CR
+202564,0,NA,,,,0,0,,,CR
+202566,0,NA,,,,0,0,,,CR
+202568,0,NA,,,,0,0,,,CR
+202585,0,NA,,,,0,0,,,CR
+202591,0,NA,,,,0,0,,,DR
+202595,0,NA,,,,0,0,,,CR
+202616,0,NA,,,,0,0,,,CR
+202629,0,NA,,,,0,0,,,DR
+202631,0,NA,,,,0,0,,,CR
+202641,0,NA,,,,0,0,,,DR
+202647,0,NA,,,,0,0,,,CR
+202651,0,NA,,,,0,0,,,CR
+202661,0,NA,,,,0,0,,,CR
+202662,0,NA,,,,0,0,,,DR
+202670,0,NA,,,,0,0,,,DR
+202673,0,NA,,,,0,0,,,CR
+202683,0,NA,,,,0,0,,,DR
+202689,0,NA,,,,0,0,,,DR
+202725,0,NA,,,,0,0,,,CR
+202734,0,NA,,,,0,0,,,CR
+202742,0,NA,,,,0,0,,,Thoravision
+202750,0,NA,,,,0,0,T1 and T2 only,,CR
+202759,0,NA,,,,0,0,,,CR
+202762,0,NA,,,,0,0,,,DR
+202769,0,NA,,,,0,0,,,DR
+202770,0,NA,,,,0,0,,,CR
+202771,0,NA,,,,0,0,,,Thoravision
+202780,0,NA,,,,0,0,,,DR
+202781,0,NA,,,,0,0,hiatal hernia,,CR
+202803,0,NA,,,,0,0,,,DR
+202811,0,NA,,,,0,0,,,DR
+202819,0,NA,,,,0,0,,,CR
+202824,0,NA,,,,0,0,,,CR
+202829,0,NA,,,,0,0,,,CR
+202849,0,NA,,,,0,0,,,CR
+202867,0,NA,,,,0,0,,,CR
+202868,0,NA,,,,0,0,,,DR
+202870,0,NA,,,,0,0,pneumonia in bilat lower lungs on T2,,Thoravision
+202875,0,NA,,,,0,0,,,CR
+202897,0,NA,,,,0,0,,,DR
+202902,0,NA,,,,0,0,,,CR
+202908,0,NA,,,,0,0,,,CR
+202909,0,NA,,,,0,0,,,DR
+202910,0,NA,,,,0,0,,,CR
+202919,0,NA,,,,0,0,,,CR
+202926,0,NA,,,,0,0,,,DR
+202931,0,NA,,,,0,0,,,DR
+202937,0,NA,,,,0,0,,,DR
+202939,0,NA,,,,0,0,,,CR
+202940,0,NA,,,,0,0,,,DR
+202968,0,NA,,,,0,0,,,DR
+202983,0,NA,,,,0,0,,,CR
+202989,0,NA,,,,0,0,,,DR
+203016,0,NA,,,,0,0,,,DR
+203019,0,NA,,,,0,0,,,CR
+203034,0,NA,,,,0,0,,,CR
+203035,0,NA,,,,0,0,,,DR
+203047,0,NA,,,,0,0,,,CR
+203050,0,NA,,,,0,0,,,DR
+203056,0,NA,,,,0,0,,,CR
+203057,0,NA,,,,0,0,,,DR
+203058,0,NA,,,,0,0,,,CR
+203061,0,NA,,,,0,0,,,CR
+203062,0,NA,,,,0,0,,,CR
+203071,0,NA,,,,0,0,,,CR
+203074,0,NA,,,,0,0,,,DR
+203096,0,NA,,,,0,0,,,CR
+203102,0,NA,,,,0,0,,,DR
+203103,0,NA,,,,0,0,,,CR
+203110,0,NA,,,,0,0,,,DR
+203114,0,NA,,,,0,0,,,CR
+203115,0,NA,,,,0,0,,,DR
+203116,0,NA,,,,0,0,,,DR
+203120,1,289,15,right upper lobe,Stage IA,0,0,,,CR
+203124,0,NA,,,,0,0,,,CR
+203128,0,NA,,,,0,0,,,DR
+203130,0,NA,,,,0,0,,,CR
+203149,0,NA,,,,0,0,,,SF
+203163,0,NA,,,,0,0,,,CR
+203165,0,NA,,,,0,0,,,DR
+203174,0,NA,,,,0,0,likely right lower rib fractures and not nodules on T0,,CR
+203180,0,NA,,,,0,0,,,CR
+203182,0,NA,,,,0,0,,,DR
+203184,0,NA,,,,0,0,,,DR
+203186,0,NA,,,,0,0,,,CR
+203190,0,NA,,,,0,0,,,CR
+203191,0,NA,,,,0,0,,,CR
+203195,0,NA,,,,0,0,,,DR
+203206,0,NA,,,,0,0,,,CR
+203217,0,NA,,,,0,0,aleclectasis or pneumonia in the left lower lung at T0,,CR
+203223,0,NA,,,,0,0,,,CR
+203232,0,NA,,,,0,0,,,CR
+203235,0,NA,,,,0,0,,,CR
+203238,0,NA,,,,0,0,,,DR
+203243,0,NA,,,,0,0,,,CR
+203245,0,NA,,,,0,0,,,DR
+203247,0,NA,,,,0,0,,,CR
+203257,0,NA,,,,0,0,,,CR
+203280,0,NA,,,,0,0,,,CR
+203289,0,NA,,,,0,0,,,Thoravision
+203292,0,NA,,,,0,0,,,CR
+203306,0,NA,,,,0,0,,,DR
+203313,0,NA,,,,0,0,,,CR
+203314,0,NA,,,,0,0,,,CR
+203826,0,NA,,,,0,0,,,DR
+203959,0,NA,,,,0,0,,,Thoravision
+204558,0,NA,,,,0,0,,,CR
+204927,0,NA,,,,0,0,,,DR
+205043,0,NA,,,,0,0,,,DR
+205373,1,274,20,right upper lobe,Stage IV,0,0,,,DR
+205639,0,NA,,,,0,0,,,CR
+205671,0,NA,,,,0,0,,,CR
+205811,0,NA,,,,0,0,,,DR
+206006,0,NA,,,,0,0,,,DR
+206112,0,NA,,,,0,0,,,CR
+206369,0,NA,,,,0,0,,,DR
+206417,0,NA,,,,0,0,,,DR
+206681,0,NA,,,,0,0,Nipple shadows in lower lung zones,,CR
+207470,0,NA,,,,0,0,,,DR
+207571,0,NA,,,,0,0,,,CR
+207574,0,NA,,,,0,0,T1 and T2 seen,,DR
+210098,1,74,20,left lower lobe,Stage IIA,0,0,,,Thoravision
+210525,1,105,64,left hilum,Stage IV,0,0,,,DR
+210602,1,341,30,right lower lobe,Stage IA,0,0,,,DR
+210948,1,29,17,right lower lobe,Stage IA,0,0,,,DR
+211889,1,364,30,left lower lobe,Stage IA,0,0,,,DR
+215675,1,201,NA,other,Stage IV,0,0,,,DR
+217431,1,282,40,right middle lobe,Stage IV,0,0,opacity in the right paracardiac region - epicardial fat…,,CR
