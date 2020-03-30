@@ -37,4 +37,4 @@ The nodule data set were labeled by two radiologists (K.H.K., with 6 years of ex
 Hyunsuk Yoo, Medical Director at Lunit Inc. - hyunsuky@lunit.io
 
 ## Disclosure
-* Hyunsuk Yoo is an employee of Lunit. 
+Hyunsuk Yoo is an employee of Lunit. 
