@@ -1,5 +1,3 @@
-# nlst-nodule-detection
-
 ## About The Project
 
 In our study, we evaluated the performance of a commercially available AI algorithm (Lunit INSIGHT for CXR, accessible at https://insight.lunit.io) for nodule detection using the publicly available NLST dataset(https://cdas.cancer.gov/nlst/). 
