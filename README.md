@@ -24,3 +24,10 @@ The nodule data set were labeled by two radiologists (K.H.K., with 6 years of ex
 * A CXR was labeled as positive for malignant pulmonary nodules if it was positive for both lung cancer and non-calcified nodules.
 
 ## Data Dictionary for public_label.csv
+* `cancer_pathology`: whether patient was diagnosed with lung cancer within 1 year of baseline imaging.
+
+## Contact
+Hyunsuk Yoo, Medical Director at Lunit Inc. - hyunsuky@lunit.io
+
+## Disclosure
+* Hyunsuk Yoo is an employee of Lunit. 
