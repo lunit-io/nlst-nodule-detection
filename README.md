@@ -1,6 +1,6 @@
 ## About The Project
 
-In our study, we evaluated the performance of a commercially available AI algorithm (Lunit INSIGHT for CXR, accessible at https://insight.lunit.io) for nodule detection using the publicly available National Lung Screening Trial (NLST) data set. In this repository, *we publicly release the nodule label used in our study.* To download the original DICOM file corresponding to our label, request should be made to CDAS (https://cdas.cancer.gov/)
+In our study, we evaluated the performance of a commercially available AI algorithm (Lunit INSIGHT for CXR, accessible at https://insight.lunit.io) for nodule detection using the publicly available National Lung Screening Trial (NLST) data set. In this repository, *we publicly release the nodule label used in our study.* To download the original DICOM file corresponding to our label, request should be made to CDAS (https://cdas.cancer.gov/).
 
 ## Brief Description of NLST 
 
