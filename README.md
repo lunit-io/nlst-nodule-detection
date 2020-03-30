@@ -25,6 +25,13 @@ The nodule data set were labeled by two radiologists (K.H.K., with 6 years of ex
 
 ## Data Dictionary for public_label.csv
 * `cancer_pathology`: whether patient was diagnosed with lung cancer within 1 year of baseline imaging.
+* `cancer_time`: time interval from baseline imaging to cancer diagnosis.
+* `lesion_size_at_Dx`: size (mm) of the lesion at diagnosis.
+* `location_at_Dx`: location of the lesion at diagnosis.
+* `stage_at_Dx`: stage of the lesion at diagnosis.
+* `is_nodule`: whether the image was labeled as positive for nodule.
+* `is_malignant_nodule`: 1 if is_nodule ==1 and cancer_pathology ==1
+*  `etc`: miscellaneous notes about the image.
 
 ## Contact
 Hyunsuk Yoo, Medical Director at Lunit Inc. - hyunsuky@lunit.io
